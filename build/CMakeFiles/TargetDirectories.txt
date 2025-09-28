@@ -1,0 +1,3 @@
+/workspaces/camera_recorder/build/CMakeFiles/camera_recorder.dir
+/workspaces/camera_recorder/build/CMakeFiles/edit_cache.dir
+/workspaces/camera_recorder/build/CMakeFiles/rebuild_cache.dir
